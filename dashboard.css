@@ -1,0 +1,42 @@
+h2
+{
+	text-align: center;
+	padding-top: 220px;
+	font-size: 50px;
+	letter-spacing: 1px;
+	color: #606676;
+}
+#h2
+{
+	color: #EF5A6F;
+}
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+table,th,td
+{
+margin-left: 150px;
+margin-top: 50px;
+border: 1px solid black;
+border-collapse: collapse;
+/*empty-cells: show;*/
+text-align: center;
+/*background-color: whitesmoke;*/
+}
+th
+{
+	font-size: large;
+}
+#lastDash
+{
+	text-align: center;
+	padding-top: 200px;
+}
+#row1:hover
+{
+	background-color: aquamarine;
+}
+#head-row:hover
+{
+	background-color: #ff4d4d;
+}
